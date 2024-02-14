@@ -5,7 +5,7 @@ COMO EXECUTAR A APLICAÇÃO:
 
 Clone este projeto ou faça o download zip do arquivo.
 
-*Você deve ter o Node.js instalado.* 
+*Você deve ter o Node.js instalado.*
 
 ------------------------------------------------------------------------------------------------------------
 Instale usando o terminal do vscode :
