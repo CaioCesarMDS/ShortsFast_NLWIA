@@ -10,13 +10,15 @@
 
 <br>
 <h1>Sobre o Projeto</h1>
-<p>Shorts Fast é um projeto que permite resumir vídeos shorts do YouTube por meio da transcrição de áudio, utilizando modelos de linguagem para converter o áudio em texto e, em seguida, resumir o texto resultante.</p>
 
+<p>Shorts Fast é um projeto que permite resumir vídeos shorts do YouTube por meio da transcrição de áudio,
+utilizando modelos de linguagem para converter o áudio em texto e, em seguida, resumir o texto resultante.</p>
 <br>
 
 <h1>Pré-requisitos</h1>
-<p>É necessaário ter o Node instalado. <br><br>
-Se você não tiver [Node](https://nodejs.org/en)       <strong>(Recomendável versão LTS)</strong>
+<p>É necessaário ter o Node instalado.</p><br><br>
+<p>
+Se você não tiver o [Node](https://nodejs.org/en) <strong>(Recomendável versão LTS)</strong>
 </p>
 
 <ul>
@@ -26,7 +28,7 @@ Se você não tiver [Node](https://nodejs.org/en)       <strong>(Recomendável v
 <br>
 
 <h1>Instalação</h1>
-<p>Para executar o projeto localmente, siga estas etapas:</p>
+<p>Para executar o projeto localmente, siga estas etapas no terminal:</p>
 
 1 - Clone esse repositório em sua máquina local:
 
