@@ -16,14 +16,14 @@ utilizando modelos de linguagem para converter o áudio em texto e, em seguida, 
 <br>
 
 <h1>Pré-requisitos</h1>
-<p>É necessaário ter o Node instalado.</p><br><br>
+<p>É necessaário ter o Node instalado.</p>
 <p>
 Se você não tiver o [Node](https://nodejs.org/en) <strong>(Recomendável versão LTS)</strong>
 </p>
-
 <ul>
     <li>Node</li>
 </ul>
+
 
 <br>
 
@@ -80,8 +80,6 @@ npm run server
 
 <h1>Funcionalidades</h1>
 <p>Ver resumos de vídeo "short" do YouTube</p>
-
-<img src="">
 
 <br>
 
