@@ -18,6 +18,7 @@ utilizando modelos de linguagem para converter o áudio em texto e, em seguida, 
 <h1>Pré-requisitos</h1>
 <p>É necessaário ter o Node instalado.</p>
 <p>
+  
 Se você não tiver o [Node](https://nodejs.org/en) <strong>(Recomendável versão LTS)</strong>
 </p>
 <ul>
